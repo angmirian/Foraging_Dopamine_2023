@@ -6,4 +6,4 @@ Description: These are scripts used for analysis for the paper submitted to Natu
 Scripts included:
 1. commands_for_paper_2022.m - this script runs the behavioral and ROI analyses including generating plots, running multiple linear regressions, and PCA analysis
 2. calc_optimal_exit.m - this script runs the MVT simulations to calculate the optimal leaving thresholds for this foraging task given the specific parameters used for travel time and decay rate
-3. normaliseNaN.m - slight variation of the normalise.m matlab function that can handle NaN values (since some subjs have missing data)
+3. normaliseNaN.m - slight variation of the normalize.m built-in matlab function that can handle NaN values (since some subjs have missing data)
